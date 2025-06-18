@@ -13,7 +13,7 @@ import { ExperienceComponent } from './experience/experience.component';
 import { SkillsComponent } from './skills/skills.component';
 import {FormsModule,ReactiveFormsModule} from '@angular/forms';
 import { ProjectsComponent } from './projects/projects.component';
-import { VkGlobalComponent } from './vkglobal/vkglobal.component';
+//import { VkGlobalComponent } from './vkglobal/vkglobal.component';
 
 
 @NgModule({
@@ -30,7 +30,7 @@ import { VkGlobalComponent } from './vkglobal/vkglobal.component';
     HeaderComponent,
     FooterComponent,
     AboutComponent,
-    VkGlobalComponent,
+    //VkGlobalComponent,
     IntroComponent,
     ContactComponent,
     EducationComponent,
